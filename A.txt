@@ -1,1 +1,1 @@
-this is file A
+file A is modified
